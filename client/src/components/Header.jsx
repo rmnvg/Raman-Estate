@@ -36,8 +36,7 @@ function Header() {
               Sign in
             </li>
           </Link>
-          <Link> </Link>
-          <Link> </Link>
+        
         </ul>
       </div>
     </header>
