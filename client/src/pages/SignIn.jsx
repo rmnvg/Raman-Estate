@@ -60,10 +60,10 @@ function SignIn() {
           onChange={handleChange}
         />
         <button
-          diabled={loading}
-          className="bg-slate-700 text-white p-3 rounded-lg uppercase hover:opacity-60 disabled:opacity-80"
+          disabled={loading ? "disabled" : ""}
+          className="bg-slate-700 text-white p-3 rounded-lg uppercase hover:opacity-95 disabled:opacity-80"
         >
-          {loading ? "Loading..." : "Sign In"}
+          {loading ? "Loading..." : "Sign Up"}
         </button>
       </form>
       <div className="flex gap-2 mt-5">
