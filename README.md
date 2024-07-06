@@ -1,8 +1,9 @@
-Project Name: Raman Estate
 Raman Estate, a pioneering Real Estate Marketplace dedicated to enhancing the efficiency and security of property transactions. With robust authentication using JWT, Firebase, and Google OAuth, our platform ensures secure user interactions and data integrity.
-Powered by Redux Toolkit, Raman Estate delivers exceptional performance and efficient state management, ensuring a seamless user experience. Leveraging MongoDB, we've implemented nine essential CRUD operations, empowering users with intuitive tools to manage property listings effortlessly.
+Powered by Redux Toolkit, it delivers exceptional performance and efficient state management, ensuring a seamless user experience. Leveraging MongoDB, we've implemented nine essential CRUD operations, empowering users with intuitive tools to manage property listings effortlessly.
 Enjoy unmatched convenience with features like streamlined image uploads and intuitive listing management interfaces. Our advanced search functionality utilizes sophisticated algorithms for precise property discovery, tailored to individual preferences.
-It exemplifies our expertise in full-stack development, authentication protocols, and database management, setting new benchmarks in real estate technology. Explore the future of property transactions with Raman Estate, where innovation meets reliability at every step.
+It exemplifies our expertise in full-stack development, authentication protocols, and database management, setting new benchmarks in real estate technology. Explore the future of property transactions with it, where innovation meets reliability at every step.
+
+Project Demo Video : https://youtu.be/536UzZ40scQ?si=xyEjU2xiGQDWGcDN
 
 ![WhatsApp Image 2024-07-07 at 1 47 04 AM](https://github.com/rmnvg/Raman-Estate/assets/121239176/a5c539d0-1ccf-444a-9dff-307412511c5b)
 
